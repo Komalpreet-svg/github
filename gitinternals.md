@@ -54,3 +54,19 @@ Answer
 
 No.
 
+# You are on feature
+git add .
+git commit -m "Added login feature"
+
+# Move to main
+git switch main
+
+# Get latest main
+git pull origin main
+
+# Merge feature
+git merge feature
+
+# Push main
+git push origin main
+
