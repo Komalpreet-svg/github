@@ -54,4 +54,3 @@ Answer
 
 No.
 
-A branch is just a lightweight pointer to a commit. Git creates the branch instantly without duplicating the repository.
