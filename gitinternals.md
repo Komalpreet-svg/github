@@ -47,3 +47,11 @@ git add // move changes to staging area.
 Three Areas:
 
 Working directory -> git add --> Staging Area --> git commit -->Repository
+
+(Q). Does Git copy the whole repository when creating a branch?
+
+Answer
+
+No.
+
+A branch is just a lightweight pointer to a commit. Git creates the branch instantly without duplicating the repository.
